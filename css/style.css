@@ -1,0 +1,35 @@
+* {
+	box-sizing: border-box;
+}
+
+#navbar_design {
+	background-color: slateblue;
+}
+
+.nav-align {
+	text-align: center;
+	border: 1px solid black;
+	background-color: floralwhite;
+}
+
+.menu_box{
+	margin: 30px;
+	text-align: center;
+}
+
+.box_format{
+	background-color: slategrey;
+	text-align: center;
+	margin: 20px;
+}
+
+.content_format{
+	text-align: left;
+	padding: 5px;
+}
+
+@media (min-width: 767px) {
+visible-xs-new, .visible-xs-new {
+	display: none !important;
+	}
+}
